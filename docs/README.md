@@ -1,6 +1,3 @@
 # Documentation
 
-This folder contains the technical documentation, system architecture,
-FSM design, block diagrams, and final report of the
-FPGA-Based Railway Interlocking System developed by Team MH Titans
-for VELTRAXX'26 Hackathon.
+This folder contains project documentation for the FPGA-Based Railway Interlocking System, including design notes and reference material for the FSM-based route control logic.
