@@ -113,3 +113,19 @@ MH-Titans/
 └── presentation/
     ├── MH Titans final (1).pdf
     └── README.md
+
+## Simulation Results
+![Simulation Waveform](outputs/simulation_waveform.png)
+
+Simulation log: [simulation_log.txt](logs/simulation_log.txt)
+
+## Synthesis Results
+![Synthesized Schematic](outputs/synthesis_schematic.png)
+
+- Utilization report: [utilization_report.txt](outputs/utilization_report.txt)
+- Timing report: [timing_report.txt](outputs/timing_report.txt)
+
+## Hardware Demonstration
+![Hardware Setup](outputs/hardware_demo.jpg)
+
+
